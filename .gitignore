@@ -1,0 +1,10 @@
+bwer_components/
+node_modules/
+/data/P_4_2_3_supercut-media/*
+!/data/P_4_2_3_supercut-media/.gitkeep
+/data/twemoji/*
+!/data/twemoji/.gitkeep
+.DS_Store
+.vscode/
+.idea
+/P.0/Code-Package-p5.js-1.3.1/*
